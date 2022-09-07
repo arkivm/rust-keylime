@@ -6,6 +6,7 @@ version = "0.1.0"
 license = "Apache-2.0"
 description = "Rust agent for Keylime"
 repository = "https://github.com/keylime/rust-keylime"
+default-run = "keylime_agent"
 
 [[bin]]
 name = "keylime_agent"
